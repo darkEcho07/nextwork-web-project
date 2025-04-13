@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Your Name - [Your Email](mailto:your.email@email.com)
+Rico Araojo - [ojoara.me@gmail.com](mailto:ojoara.me@gmail.com)
 
 <br>
 
@@ -62,7 +62,3 @@ Your Name - [Your Email](mailto:your.email@email.com)
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
 
 A big shoutout to **[NextWork](https://learn.nextwork.org/app)** for their project guide and support. [You can get started with this DevOps series project too by clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
-
-## Contact
-If you have any questions or comments about the Nextwork Web Project, please contact:
-Rico M. Araojo - [ojoararico.me@gmail.com]
