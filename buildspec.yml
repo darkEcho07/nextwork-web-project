@@ -1,4 +1,4 @@
-#This is configuration of buildspec.yml created on 04/15/2025
+#This is configuration of buildspec.yml created on 04/16/2025
 version: 0.2
 
 phases:
@@ -8,7 +8,7 @@ phases:
   pre_build:
     commands:
       - echo Initializing environment
-      - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain nextwork --domain-owner 216989124390 --region us-east-1 --query authorizationToken --output text`
+      - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain nextwork --domain-owner 216989124390 --region ap-southeast-1 --query authorizationToken --output text`
 
   build:
     commands:
